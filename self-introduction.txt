@@ -1,3 +1,5 @@
 yakiniku-daisuki
 osusimo-daisuki
 tenpura-daisuki
+cake-daisuki
+
